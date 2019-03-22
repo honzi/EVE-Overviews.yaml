@@ -167,6 +167,7 @@ presets:
         - 1923
         - 2006
         - 2022
+        - 2024
 - - NEAR
   - - - alwaysShownStates
       - []
