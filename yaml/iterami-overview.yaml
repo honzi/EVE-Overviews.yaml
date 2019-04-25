@@ -5,6 +5,7 @@ backgroundOrder:
 - 51
 - 9
 - 50
+- 17
 - 11
 - 12
 - 14
@@ -17,7 +18,6 @@ backgroundOrder:
 - 53
 - 10
 - 21
-- 17
 - 48
 - 20
 backgroundStates:
@@ -33,8 +33,6 @@ backgroundStates:
 - 18
 - 19
 - 21
-- 44
-- 45
 - 48
 - 49
 - 50
@@ -748,6 +746,8 @@ stateBlinks:
 stateColorsNameList:
 - - background_13
   - red
+- - background_17
+  - indigo
 tabSetup:
 - - 0
   - - - bracket
