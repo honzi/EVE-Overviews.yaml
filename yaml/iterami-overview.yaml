@@ -745,6 +745,8 @@ stateColorsNameList:
   - red
 - - background_17
   - indigo
+- - flag_17
+  - indigo
 tabSetup:
 - - 0
   - - - bracket
