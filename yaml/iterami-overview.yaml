@@ -1110,6 +1110,36 @@ presets:
         - 2005
         - 2009
         - 4028
+- - LOOT
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 12
+        - 14
+        - 100
+        - 101
+        - 186
+        - 340
+        - 361
+        - 448
+        - 544
+        - 639
+        - 640
+        - 641
+        - 649
+        - 1159
+        - 1246
+        - 1247
+        - 1249
+        - 1250
+        - 1273
+        - 1275
+        - 1276
+        - 1537
+        - 1652
+        - 1653
 - - SECURITY
   - - - alwaysShownStates
       - []
@@ -1536,36 +1566,6 @@ presets:
         - 2001
         - 2009
         - 4028
-- - LOOT
-  - - - alwaysShownStates
-      - []
-    - - filteredStates
-      - []
-    - - groups
-      - - 12
-        - 14
-        - 100
-        - 101
-        - 186
-        - 340
-        - 361
-        - 448
-        - 544
-        - 639
-        - 640
-        - 641
-        - 649
-        - 1159
-        - 1246
-        - 1247
-        - 1249
-        - 1250
-        - 1273
-        - 1275
-        - 1276
-        - 1537
-        - 1652
-        - 1653
 shipLabelOrder:
 - pilot name
 - corporation
@@ -1679,23 +1679,23 @@ tabSetup:
   - - - bracket
       - null
     - - name
-      - FAR
+      - SECURITY
     - - overview
-      - FAR
+      - SECURITY
 - - 3
   - - - bracket
       - null
     - - name
-      - NEAR
+      - FAR
     - - overview
-      - NEAR
+      - FAR
 - - 4
   - - - bracket
       - null
     - - name
-      - SECURITY
+      - NEAR
     - - overview
-      - SECURITY
+      - NEAR
 userSettings:
 - - applyToOtherObjects
   - true
