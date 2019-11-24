@@ -623,6 +623,11 @@ presets:
         - 4029
         - 4030
         - 4031
+        - 4033
+        - 4034
+        - 4035
+        - 4036
+        - 4037
 - - FAR
   - - - alwaysShownStates
       - []
@@ -1083,6 +1088,10 @@ presets:
         - 2005
         - 2009
         - 4028
+        - 4034
+        - 4035
+        - 4036
+        - 4037
 - - LOOT
   - - - alwaysShownStates
       - []
@@ -1513,6 +1522,10 @@ presets:
         - 2001
         - 2009
         - 4028
+        - 4034
+        - 4035
+        - 4036
+        - 4037
 shipLabelOrder:
 - pilot name
 - corporation
