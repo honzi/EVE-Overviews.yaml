@@ -7,6 +7,7 @@ backgroundOrder:
 - 50
 - 17
 - 11
+- 66
 - 12
 - 14
 - 15
@@ -39,6 +40,7 @@ backgroundStates:
 - 51
 - 52
 - 53
+- 66
 columnOrder:
 - ICON
 - DISTANCE
@@ -64,6 +66,7 @@ flagOrder:
 - 53
 - 17
 - 11
+- 66
 - 12
 - 14
 - 15
@@ -95,6 +98,7 @@ flagStates:
 - 51
 - 52
 - 53
+- 66
 overviewColumns:
 - CORPORATION
 - DISTANCE
@@ -1128,7 +1132,8 @@ presets:
     - - filteredStates
       - []
     - - groups
-      - - 25
+      - - 12
+        - 25
         - 26
         - 27
         - 28
@@ -1659,3 +1664,5 @@ tabSetup:
 userSettings:
 - - applyToOtherObjects
   - true
+- - overviewBroadcastsToTop
+  - false
