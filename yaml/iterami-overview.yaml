@@ -1670,3 +1670,5 @@ userSettings:
   - true
 - - overviewBroadcastsToTop
   - false
+- - showModuleHairlines
+  - false
