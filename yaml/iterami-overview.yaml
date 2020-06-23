@@ -1635,6 +1635,11 @@ tabSetup:
 - - 0
   - - - bracket
       - null
+    - - color
+      - &id001
+        - 1.0
+        - 1.0
+        - 1.0
     - - name
       - ALL
     - - overview
@@ -1642,6 +1647,8 @@ tabSetup:
 - - 1
   - - - bracket
       - null
+    - - color
+      - *id001
     - - name
       - LOOT
     - - overview
@@ -1649,6 +1656,8 @@ tabSetup:
 - - 2
   - - - bracket
       - null
+    - - color
+      - *id001
     - - name
       - SECURITY
     - - overview
@@ -1656,6 +1665,8 @@ tabSetup:
 - - 3
   - - - bracket
       - null
+    - - color
+      - *id001
     - - name
       - FAR
     - - overview
@@ -1663,6 +1674,8 @@ tabSetup:
 - - 4
   - - - bracket
       - null
+    - - color
+      - *id001
     - - name
       - NEAR
     - - overview
@@ -1671,6 +1684,8 @@ userSettings:
 - - applyToOtherObjects
   - true
 - - overviewBroadcastsToTop
+  - false
+- - showCategoryInTargetRange_6
   - false
 - - showModuleHairlines
   - false
