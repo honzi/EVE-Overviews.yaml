@@ -48,8 +48,8 @@ columnOrder:
 - TYPE
 - VELOCITY
 - CORPORATION
-- TAG
 - ALLIANCE
+- TAG
 - FACTION
 - MILITIA
 - SIZE
@@ -100,6 +100,7 @@ flagStates:
 - 53
 - 66
 overviewColumns:
+- ALLIANCE
 - CORPORATION
 - DISTANCE
 - ICON
@@ -1636,10 +1637,7 @@ tabSetup:
   - - - bracket
       - null
     - - color
-      - &id001
-        - 1.0
-        - 1.0
-        - 1.0
+      - null
     - - name
       - ALL
     - - overview
@@ -1648,7 +1646,7 @@ tabSetup:
   - - - bracket
       - null
     - - color
-      - *id001
+      - null
     - - name
       - LOOT
     - - overview
@@ -1657,7 +1655,7 @@ tabSetup:
   - - - bracket
       - null
     - - color
-      - *id001
+      - null
     - - name
       - SECURITY
     - - overview
@@ -1666,7 +1664,7 @@ tabSetup:
   - - - bracket
       - null
     - - color
-      - *id001
+      - null
     - - name
       - FAR
     - - overview
@@ -1675,7 +1673,7 @@ tabSetup:
   - - - bracket
       - null
     - - color
-      - *id001
+      - null
     - - name
       - NEAR
     - - overview
