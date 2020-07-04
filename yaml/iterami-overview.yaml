@@ -1633,7 +1633,7 @@ stateColorsNameList:
 - - background_13
   - red
 - - background_17
-  - indigo
+  - darkTurquoise
 - - background_48
   - white
 - - background_52
@@ -1643,7 +1643,7 @@ stateColorsNameList:
 - - flag_10
   - orange
 - - flag_17
-  - indigo
+  - darkTurquoise
 - - flag_52
   - black
 - - flag_53
