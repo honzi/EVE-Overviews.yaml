@@ -636,6 +636,7 @@ presets:
         - 4053
         - 4055
         - 4070
+        - 4073
 - - FAR
   - - - alwaysShownStates
       - []
@@ -1101,6 +1102,7 @@ presets:
         - 4036
         - 4037
         - 4053
+        - 4073
 - - LOOT
   - - - alwaysShownStates
       - []
