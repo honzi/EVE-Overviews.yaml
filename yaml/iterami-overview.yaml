@@ -1628,14 +1628,20 @@ stateBlinks:
 - - flag_9
   - true
 stateColorsNameList:
+- - background_10
+  - darkTurquoise
 - - background_13
   - red
 - - background_17
   - indigo
+- - background_53
+  - yellow
+- - flag_10
+  - darkTurquoise
 - - flag_17
   - indigo
 - - flag_53
-  - darkTurquoise
+  - yellow
 tabSetup:
 - - 0
   - - - bracket
