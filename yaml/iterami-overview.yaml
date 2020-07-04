@@ -1634,6 +1634,8 @@ stateColorsNameList:
   - indigo
 - - flag_17
   - indigo
+- - flag_53
+  - darkTurquoise
 tabSetup:
 - - 0
   - - - bracket
