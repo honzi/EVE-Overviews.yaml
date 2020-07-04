@@ -1629,19 +1629,25 @@ stateBlinks:
   - true
 stateColorsNameList:
 - - background_10
-  - darkTurquoise
+  - white
 - - background_13
   - red
 - - background_17
   - indigo
+- - background_48
+  - white
+- - background_52
+  - turquoise
 - - background_53
   - yellow
 - - flag_10
-  - darkTurquoise
+  - orange
 - - flag_17
   - indigo
+- - flag_52
+  - black
 - - flag_53
-  - yellow
+  - red
 tabSetup:
 - - 0
   - - - bracket
@@ -1692,6 +1698,8 @@ userSettings:
 - - applyToOtherObjects
   - true
 - - overviewBroadcastsToTop
+  - false
+- - showCategoryInTargetRange_18
   - false
 - - showCategoryInTargetRange_6
   - false
