@@ -638,6 +638,7 @@ presets:
         - 4070
         - 4073
         - 4081
+        - 4088
 - - FAR
   - - - alwaysShownStates
       - []
@@ -732,6 +733,7 @@ presets:
         - 543
         - 544
         - 547
+        - 548
         - 550
         - 551
         - 552
@@ -1105,6 +1107,7 @@ presets:
         - 4037
         - 4053
         - 4073
+        - 4088
 - - LOOT
   - - - alwaysShownStates
       - []
@@ -1187,6 +1190,7 @@ presets:
         - 541
         - 543
         - 547
+        - 548
         - 550
         - 551
         - 552
@@ -1542,6 +1546,7 @@ presets:
         - 4036
         - 4037
         - 4053
+        - 4088
 shipLabelOrder:
 - pilot name
 - corporation
@@ -1704,6 +1709,8 @@ userSettings:
 - - showCategoryInTargetRange_18
   - false
 - - showCategoryInTargetRange_6
+  - false
+- - showInTargetRange
   - false
 - - showModuleHairlines
   - false
