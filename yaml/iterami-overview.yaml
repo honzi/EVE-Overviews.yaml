@@ -670,6 +670,64 @@ presets:
         - 2020
         - 4079
         - 4081
+- - SHIPS
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 237
+        - 324
+        - 335
+        - 358
+        - 380
+        - 381
+        - 419
+        - 420
+        - 463
+        - 485
+        - 492
+        - 513
+        - 540
+        - 541
+        - 543
+        - 547
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 898
+        - 900
+        - 902
+        - 906
+        - 934
+        - 941
+        - 963
+        - 1004
+        - 1005
+        - 1022
+        - 1165
+        - 1201
+        - 1202
+        - 1283
+        - 1305
+        - 1527
+        - 1534
+        - 1538
+        - 1972
+        - 2001
 - - NEAR
   - - - alwaysShownStates
       - []
@@ -1682,10 +1740,19 @@ tabSetup:
     - - color
       - null
     - - name
+      - SHIPS
+    - - overview
+      - SHIPS
+- - 3
+  - - - bracket
+      - null
+    - - color
+      - null
+    - - name
       - SECURITY
     - - overview
       - SECURITY
-- - 3
+- - 4
   - - - bracket
       - null
     - - color
@@ -1694,7 +1761,7 @@ tabSetup:
       - FAR
     - - overview
       - FAR
-- - 4
+- - 5
   - - - bracket
       - null
     - - color
