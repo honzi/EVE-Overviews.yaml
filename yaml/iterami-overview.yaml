@@ -641,6 +641,8 @@ presets:
         - 4081
         - 4088
         - 4093
+        - 4094
+        - 4100
 - - FAR
   - - - alwaysShownStates
       - []
