@@ -57,7 +57,6 @@ columnOrder:
 - TRANSVERSALVELOCITY
 - ANGULARVELOCITY
 flagOrder:
-- 11
 - 52
 - 13
 - 44
@@ -65,6 +64,7 @@ flagOrder:
 - 9
 - 50
 - 53
+- 11
 - 17
 - 15
 - 16
