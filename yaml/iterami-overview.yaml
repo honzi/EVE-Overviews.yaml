@@ -642,7 +642,12 @@ presets:
         - 4093
         - 4094
         - 4100
+        - 4105
+        - 4106
         - 4107
+        - 4128
+        - 4130
+        - 4137
 - - FAR
   - - - alwaysShownStates
       - []
@@ -678,6 +683,7 @@ presets:
         - 4081
         - 4093
         - 4107
+        - 4137
 - - SHIPS
   - - - alwaysShownStates
       - []
@@ -1204,6 +1210,7 @@ presets:
         - 1652
         - 1653
         - 4093
+        - 4137
 - - SECURITY
   - - - alwaysShownStates
       - []
