@@ -744,6 +744,51 @@ presets:
         - 1538
         - 1972
         - 2001
+- - MINING
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 9
+        - 335
+        - 450
+        - 451
+        - 452
+        - 453
+        - 454
+        - 455
+        - 456
+        - 457
+        - 458
+        - 459
+        - 460
+        - 461
+        - 462
+        - 465
+        - 467
+        - 468
+        - 469
+        - 492
+        - 934
+        - 1004
+        - 1005
+        - 1165
+        - 1884
+        - 1911
+        - 1920
+        - 1921
+        - 1922
+        - 1923
+        - 2006
+        - 2022
+        - 2024
+        - 4029
+        - 4030
+        - 4031
+        - 4055
+        - 4094
+        - 4161
 - - NEAR
   - - - alwaysShownStates
       - []
@@ -1748,28 +1793,37 @@ tabSetup:
     - - color
       - null
     - - name
-      - LOOT
+      - MINING
     - - overview
-      - LOOT
+      - MINING
 - - 2
   - - - bracket
       - null
     - - color
       - null
     - - name
-      - SHIPS
+      - LOOT
     - - overview
-      - SHIPS
+      - LOOT
 - - 3
   - - - bracket
       - null
     - - color
       - null
     - - name
+      - SHIPS
+    - - overview
+      - SHIPS
+- - 4
+  - - - bracket
+      - null
+    - - color
+      - null
+    - - name
       - SECURITY
     - - overview
       - SECURITY
-- - 4
+- - 5
   - - - bracket
       - null
     - - color
@@ -1778,7 +1832,7 @@ tabSetup:
       - FAR
     - - overview
       - FAR
-- - 5
+- - 6
   - - - bracket
       - null
     - - color
