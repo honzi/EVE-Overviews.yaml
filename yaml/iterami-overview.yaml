@@ -650,6 +650,10 @@ presets:
         - 4137
         - 4161
         - 4168
+        - 4431
+        - 4432
+        - 4433
+        - 4434
 - - FAR
   - - - alwaysShownStates
       - []
@@ -1226,6 +1230,10 @@ presets:
         - 4053
         - 4073
         - 4088
+        - 4431
+        - 4432
+        - 4433
+        - 4434
 - - LOOT
   - - - alwaysShownStates
       - []
@@ -1669,6 +1677,10 @@ presets:
         - 4053
         - 4088
         - 4093
+        - 4431
+        - 4432
+        - 4433
+        - 4434
 - - ENEMIES
   - - - alwaysShownStates
       - []
@@ -2096,6 +2108,10 @@ presets:
         - 4053
         - 4073
         - 4088
+        - 4431
+        - 4432
+        - 4433
+        - 4434
 shipLabelOrder:
 - pilot name
 - corporation
