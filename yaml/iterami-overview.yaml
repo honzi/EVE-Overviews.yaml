@@ -657,6 +657,7 @@ presets:
         - 4477
         - 4494
         - 4499
+        - 4501
 - - FAR
   - - - alwaysShownStates
       - []
@@ -1237,6 +1238,7 @@ presets:
         - 4432
         - 4433
         - 4434
+        - 4501
 - - LOOT
   - - - alwaysShownStates
       - []
@@ -1684,6 +1686,7 @@ presets:
         - 4432
         - 4433
         - 4434
+        - 4501
 - - ENEMIES
   - - - alwaysShownStates
       - []
