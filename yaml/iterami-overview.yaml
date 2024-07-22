@@ -567,6 +567,8 @@ presets:
         - 4655
         - 4656
         - 4673
+        - 4737
+        - 4771
 - - FAR
   - - - alwaysShownStates
       - []
@@ -604,6 +606,7 @@ presets:
         - 4107
         - 4137
         - 4644
+        - 4744
 - - -ALL-
   - - - alwaysShownStates
       - []
@@ -1188,6 +1191,20 @@ presets:
         - 4655
         - 4656
         - 4673
+        - 4712
+        - 4713
+        - 4737
+        - 4744
+        - 4745
+        - 4755
+        - 4756
+        - 4757
+        - 4758
+        - 4759
+        - 4771
+        - 4777
+        - 4778
+        - 4779
 - - SHIPS
   - - - alwaysShownStates
       - []
@@ -1299,6 +1316,11 @@ presets:
         - 4515
         - 4516
         - 4568
+        - 4755
+        - 4756
+        - 4757
+        - 4758
+        - 4759
 - - NEAR
   - - - alwaysShownStates
       - []
@@ -1769,6 +1791,8 @@ presets:
         - 4655
         - 4656
         - 4673
+        - 4737
+        - 4771
 - - LOOT
   - - - alwaysShownStates
       - []
@@ -2240,6 +2264,8 @@ presets:
         - 4655
         - 4656
         - 4673
+        - 4737
+        - 4771
 shipLabelOrder:
 - pilot name
 - corporation
