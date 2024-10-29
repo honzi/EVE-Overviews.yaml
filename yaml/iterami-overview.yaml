@@ -569,6 +569,16 @@ presets:
         - 4673
         - 4737
         - 4771
+        - 4795
+        - 4796
+        - 4797
+        - 4798
+        - 4799
+        - 4800
+        - 4801
+        - 4802
+        - 4803
+        - 4804
 - - FAR
   - - - alwaysShownStates
       - []
@@ -1193,6 +1203,7 @@ presets:
         - 4673
         - 4712
         - 4713
+        - 4719
         - 4737
         - 4744
         - 4745
@@ -1205,6 +1216,16 @@ presets:
         - 4777
         - 4778
         - 4779
+        - 4795
+        - 4796
+        - 4797
+        - 4798
+        - 4799
+        - 4800
+        - 4801
+        - 4802
+        - 4803
+        - 4804
 - - SHIPS
   - - - alwaysShownStates
       - []
@@ -1793,6 +1814,16 @@ presets:
         - 4673
         - 4737
         - 4771
+        - 4795
+        - 4796
+        - 4797
+        - 4798
+        - 4799
+        - 4800
+        - 4801
+        - 4802
+        - 4803
+        - 4804
 - - LOOT
   - - - alwaysShownStates
       - []
@@ -2266,6 +2297,16 @@ presets:
         - 4673
         - 4737
         - 4771
+        - 4795
+        - 4796
+        - 4797
+        - 4798
+        - 4799
+        - 4800
+        - 4801
+        - 4802
+        - 4803
+        - 4804
 shipLabelOrder:
 - pilot name
 - corporation
@@ -2573,6 +2614,8 @@ userSettings:
 - - applyToOtherObjects
   - true
 - - overviewBroadcastsToTop
+  - false
+- - showCategoryInTargetRange_11
   - false
 - - showCategoryInTargetRange_18
   - false
