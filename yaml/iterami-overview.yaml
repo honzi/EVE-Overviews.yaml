@@ -1230,6 +1230,7 @@ presets:
         - 4803
         - 4804
         - 4810
+        - 4825
 - - SHIPS
   - - - alwaysShownStates
       - []
