@@ -1,5 +1,8 @@
 honzi/EVE-Overviews.yaml
 ------------------------
+
+* Docs: https://honzi.github.io/guides/repos/eve-overviews-yaml.htm
+
 iterami Overview:
 * NEAR: Recommended default. Shows important things that are only visible on the same grid as you.
 * FAR: Shows important things that are visible in the entire solar system, such as stations and gates.
