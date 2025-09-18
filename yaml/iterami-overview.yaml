@@ -1232,6 +1232,8 @@ presets:
         - 4810
         - 4825
         - 4828
+        - 4857
+        - 4909
 - - SHIPS
   - - - alwaysShownStates
       - []
@@ -1348,6 +1350,7 @@ presets:
         - 4757
         - 4758
         - 4759
+        - 4857
 - - NEAR
   - - - alwaysShownStates
       - []
@@ -1830,6 +1833,7 @@ presets:
         - 4802
         - 4803
         - 4804
+        - 4909
 - - LOOT
   - - - alwaysShownStates
       - []
