@@ -1262,6 +1262,7 @@ presets:
         - 4937
         - 4938
         - 4945
+        - 4949
         - 4975
 - - SHIPS
   - - - alwaysShownStates
@@ -1875,6 +1876,7 @@ presets:
         - 4909
         - 4917
         - 4945
+        - 4949
         - 4975
 - - LOOT
   - - - alwaysShownStates
