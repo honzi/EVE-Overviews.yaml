@@ -596,6 +596,10 @@ presets:
         - 4917
         - 4945
         - 4975
+        - 5063
+        - 5064
+        - 5065
+        - 5066
 - - FAR
   - - - alwaysShownStates
       - []
@@ -1264,6 +1268,10 @@ presets:
         - 4945
         - 4949
         - 4975
+        - 5063
+        - 5064
+        - 5065
+        - 5066
 - - SHIPS
   - - - alwaysShownStates
       - []
@@ -1877,6 +1885,10 @@ presets:
         - 4945
         - 4949
         - 4975
+        - 5063
+        - 5064
+        - 5065
+        - 5066
 - - LOOT
   - - - alwaysShownStates
       - []
@@ -2370,6 +2382,10 @@ presets:
         - 4917
         - 4945
         - 4975
+        - 5063
+        - 5064
+        - 5065
+        - 5066
 shipLabelOrder:
 - pilot name
 - corporation
