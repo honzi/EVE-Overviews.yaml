@@ -9,6 +9,6 @@ iterami Overview:
 * ENEMY: Same as the NEAR tab, except exludes those with Excellent/Good standing, war allies, and alliance/corp/fleet/militia members.
 * SECURITY: Shows things relevant for security missions.
 * SHIPS: Only shows player-owned ships, including ships that a player has ejected from.
-* LOOT: Shows wrecks and shootable things like depots and MTUs.
+* LOOT: Shows wrecks, containers, and shootable deployables like MTUs. Depots are in the ALL tab.
 * MINE: Shows asteroid belts and asteroids.
 * ALL: Shows everything. Uses a custom filter since CCP's ALL filter doesn't include everything.
