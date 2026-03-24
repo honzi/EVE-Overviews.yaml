@@ -604,6 +604,7 @@ presets:
         - 5078
         - 5079
         - 5080
+        - 5087
 - - FAR
   - - - alwaysShownStates
       - []
@@ -1280,6 +1281,7 @@ presets:
         - 5078
         - 5079
         - 5080
+        - 5087
 - - SHIPS
   - - - alwaysShownStates
       - []
@@ -1340,6 +1342,7 @@ presets:
         - 2001
         - 4594
         - 4902
+        - 5087
 - - MINE
   - - - alwaysShownStates
       - []
@@ -1901,6 +1904,7 @@ presets:
         - 5078
         - 5079
         - 5080
+        - 5087
 - - LOOT
   - - - alwaysShownStates
       - []
@@ -2402,6 +2406,7 @@ presets:
         - 5078
         - 5079
         - 5080
+        - 5087
 shipLabelOrder:
 - pilot name
 - corporation
