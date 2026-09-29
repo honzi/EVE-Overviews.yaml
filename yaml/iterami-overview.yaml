@@ -622,6 +622,7 @@ presets:
         - 5124
         - 5125
         - 5154
+        - 5239
 - - FAR
   - - - alwaysShownStates
       - []
@@ -1322,6 +1323,7 @@ presets:
         - 5124
         - 5125
         - 5154
+        - 5239
 - - SHIPS
   - - - alwaysShownStates
       - []
@@ -1966,6 +1968,7 @@ presets:
         - 5124
         - 5125
         - 5154
+        - 5239
 - - LOOT
   - - - alwaysShownStates
       - []
@@ -2002,6 +2005,7 @@ presets:
         - 4778
         - 4779
         - 4913
+        - 5239
 - - SECURITY
   - - - alwaysShownStates
       - []
